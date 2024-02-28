@@ -34,13 +34,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criação de Pokédex utilizando JavaScript, CSS e HTML",
+      "url": "https://github.com/dFriggi/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Página de Portfólio (este mesmo) utilizando JavaScript, CSS e HTML",
+      "url": "https://github.com/dFriggi/js-developer-portfolio",
       "github": true
     }
   ],
@@ -63,26 +63,26 @@
       },
       {
         "name": "UNIFESP - Bacharelado em Ciência e Tecnologia",
-        "info": "São José dos Campos 2024 - 2025"
+        "info": "São José dos Campos 2024 - 2026"
       }
     ]
   },
 
   "experience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Trabalho voluntário - Sarau escolar",
+      "period": "2022 - 2023",
+      "description": "Fui líder da área musical de 2 saraus, ambos tendo mais de 300 espectadores, por 2 anos consecutivos, assumindo a frente de grupos com mais de 20 pessoas."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Trabalho  voluntário - Igreja",
+      "period": "2020 - 2022",
+      "description": "Participei na produção de 3 eventos para crianças na minha igreja, cuidando da parte de entretenimento e gestão das músicas e banda."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Projeto escolar - Feira Científica",
+      "period": "2023",
+      "description": "Fiz parte de um projeto escolar que envolvia estudar e explicar o desenvolvimento de cidades sustentáveis, além da execução de um projeto final, fazendo a parte do design e marketing: @grupo13_expoinspire2023"
     }
   ]
 }
