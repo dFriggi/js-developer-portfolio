@@ -1,10 +1,11 @@
 {
   "name": "Davi Friggi",
   "photo": "https://avatars.githubusercontent.com/u/114791461?v=4",
-  "job": "Trainee developer",
-  "location": "São José dos Campos - SP",
+  "user": "Trainee developer",
+  "map": "São José dos Campos - SP",
   "phone": "(12) 99728-9709",
   "email": "davifriggi2005@gmail.com",
+  "university": "Cursando BCT na Unifesp - 1/6",
   "skills": {
     "hardSkills": [
       {
