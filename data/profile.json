@@ -44,6 +44,30 @@
       "github": true
     }
   ],
+
+  "education": {
+    "awards": [
+      {
+        "name": "Formação JavaScript Developer",
+        "logo": "https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png"
+      },
+      {
+        "name": "Formação Lógica de Programação",
+        "logo": "https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png"
+      }
+    ],
+    "schools": [
+      {
+        "name": "dio.me",
+        "info": "Web Development! All i need to know in one place"
+      },
+      {
+        "name": "UNIFESP - Bacharelado em Ciência e Tecnologia",
+        "info": "São José dos Campos 2024 - 2025"
+      }
+    ]
+  },
+
   "professionalExperience": [
     {
       "name": "Arquiteto de software / S3 BANK",
